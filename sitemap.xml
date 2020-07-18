@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://n-moving.com/friends/index.html</loc>
+    
+    <lastmod>2020-07-18T17:39:59.961Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://n-moving.com/about/index.html</loc>
     
     <lastmod>2020-07-18T17:15:41.756Z</lastmod>
@@ -24,13 +31,6 @@
   
   <url>
     <loc>https://n-moving.com/tags/index.html</loc>
-    
-    <lastmod>2020-07-18T10:04:55.111Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://n-moving.com/friends/index.html</loc>
     
     <lastmod>2020-07-18T10:04:55.111Z</lastmod>
     
