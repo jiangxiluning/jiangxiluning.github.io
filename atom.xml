@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>卢宁的博客</title>
+  
+  <subtitle>AI~哎</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://n-moving.com/"/>
+  <updated>2020-07-18T10:04:55.110Z</updated>
+  <id>https://n-moving.com/</id>
+  
+  <author>
+    <name>卢宁</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>什么是反向传播算法</title>
+    <link href="https://n-moving.com/2020/05/12/back-prop/"/>
+    <id>https://n-moving.com/2020/05/12/back-prop/</id>
+    <published>2020-05-11T16:10:37.000Z</published>
+    <updated>2020-07-18T10:04:55.110Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;em&gt;&lt;strong&gt;本文翻译自：&lt;a href=&quot;http://colah.github.io/posts/2015-08-Backprop/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="机器学习" scheme="https://n-moving.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="深度学习基础" scheme="https://n-moving.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bias vs. Variance</title>
+    <link href="https://n-moving.com/2020/05/11/rooted-join-tree-construction/"/>
+    <id>https://n-moving.com/2020/05/11/rooted-join-tree-construction/</id>
+    <published>2020-05-11T15:55:46.000Z</published>
+    <updated>2020-07-18T10:04:55.109Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Bias&quot;&gt;&lt;a href=&quot;#Bias&quot; class=&quot;headerlink&quot; title=&quot;Bias&quot;&gt;&lt;/a&gt;Bias&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Symptom&lt;br&gt;$ J_{cv}(\theta)  -1 $ and $
+        
+      
+    
+    </summary>
+    
+      <category term="机器学习" scheme="https://n-moving.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="深度学习基础" scheme="https://n-moving.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十大经典排序算法整理汇总（附代码）</title>
+    <link href="https://n-moving.com/2020/02/16/sort-algorithms/"/>
+    <id>https://n-moving.com/2020/02/16/sort-algorithms/</id>
+    <published>2020-02-16T07:09:23.000Z</published>
+    <updated>2020-07-18T10:04:55.110Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;关注公众号【算法码上来】，每日算法干货马上就来！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="编程算法" scheme="https://n-moving.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="leetcode" scheme="https://n-moving.com/tags/leetcode/"/>
+    
+      <category term="算法" scheme="https://n-moving.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+</feed>
