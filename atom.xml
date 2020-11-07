@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://n-moving.com/"/>
-  <updated>2020-07-18T10:04:55.110Z</updated>
+  <updated>2020-11-07T16:01:01.369Z</updated>
   <id>https://n-moving.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Paper Reading -- Table Recognition</title>
+    <link href="https://n-moving.com/2020/11/07/paper-reading-table-recognition/"/>
+    <id>https://n-moving.com/2020/11/07/paper-reading-table-recognition/</id>
+    <published>2020-11-07T15:55:00.000Z</published>
+    <updated>2020-11-07T16:01:01.369Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+	&lt;iframe src=&quot;https://www.slideshare.net/ssuser66d6701/a-survey-of-multimodal-machine-learning&quot; style=&quot;width:100%;height:550px&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Paper Reading" scheme="https://n-moving.com/categories/Paper-Reading/"/>
+    
+    
+      <category term="表格识别" scheme="https://n-moving.com/tags/%E8%A1%A8%E6%A0%BC%E8%AF%86%E5%88%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>什么是反向传播算法</title>
@@ -74,7 +101,7 @@
     <link href="https://n-moving.com/2020/02/16/sort-algorithms/"/>
     <id>https://n-moving.com/2020/02/16/sort-algorithms/</id>
     <published>2020-02-16T07:09:23.000Z</published>
-    <updated>2020-07-18T10:04:55.110Z</updated>
+    <updated>2020-11-07T15:32:53.290Z</updated>
     
     <summary type="html">
     
@@ -82,11 +109,7 @@
       
         
         
-          &lt;blockquote&gt;
-&lt;p&gt;关注公众号【算法码上来】，每日算法干货马上就来！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot; alt&gt;&lt;/p&gt;
-&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot;
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
         
       
     
@@ -98,6 +121,34 @@
       <category term="leetcode" scheme="https://n-moving.com/tags/leetcode/"/>
     
       <category term="算法" scheme="https://n-moving.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Deformable DETR: Deformable Transformers for End-to-End Object Detection</title>
+    <link href="https://n-moving.com/2020/02/16/deformable-detr/"/>
+    <id>https://n-moving.com/2020/02/16/deformable-detr/</id>
+    <published>2020-02-16T07:09:23.000Z</published>
+    <updated>2020-11-07T16:00:14.669Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;目标检测算法中充斥着许多需要人为手工设计的模块，比如 anchor
+        
+      
+    
+    </summary>
+    
+      <category term="Paper Reading" scheme="https://n-moving.com/categories/Paper-Reading/"/>
+    
+    
+      <category term="目标检测" scheme="https://n-moving.com/tags/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/"/>
+    
+      <category term="自注意力" scheme="https://n-moving.com/tags/%E8%87%AA%E6%B3%A8%E6%84%8F%E5%8A%9B/"/>
     
   </entry>
   
