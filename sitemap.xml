@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://n-moving.com/2020/11/07/paper-reading-pick/</loc>
+    
+    <lastmod>2020-11-07T17:36:03.459Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://n-moving.com/2020/11/07/paper-reading-scatter-gfte/</loc>
+    
+    <lastmod>2020-11-07T16:51:07.969Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://n-moving.com/contact/index.html</loc>
+    
+    <lastmod>2020-11-07T16:36:04.965Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://n-moving.com/2020/02/16/sort-algorithms/</loc>
+    
+    <lastmod>2020-11-07T16:32:56.186Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://n-moving.com/2020/11/07/paper-reading-table-recognition/</loc>
     
-    <lastmod>2020-11-07T16:29:21.238Z</lastmod>
+    <lastmod>2020-11-07T16:32:45.819Z</lastmod>
     
   </url>
   
@@ -12,13 +40,6 @@
     <loc>https://n-moving.com/2020/02/16/deformable-detr/</loc>
     
     <lastmod>2020-11-07T16:00:14.669Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://n-moving.com/2020/02/16/sort-algorithms/</loc>
-    
-    <lastmod>2020-11-07T15:32:53.290Z</lastmod>
     
   </url>
   
@@ -38,13 +59,6 @@
   
   <url>
     <loc>https://n-moving.com/categories/index.html</loc>
-    
-    <lastmod>2020-07-18T10:04:55.111Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://n-moving.com/contact/index.html</loc>
     
     <lastmod>2020-07-18T10:04:55.111Z</lastmod>
     
