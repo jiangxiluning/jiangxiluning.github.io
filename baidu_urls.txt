@@ -1,6 +1,6 @@
 https://n-moving.com/2020/11/08/paper-reading-ie/
-https://n-moving.com/2020/11/07/paper-reading-scatter-gfte/
 https://n-moving.com/2020/11/07/paper-reading-pick/
+https://n-moving.com/2020/11/07/paper-reading-scatter-gfte/
 https://n-moving.com/2020/11/07/paper-reading-table-recognition/
 https://n-moving.com/2020/05/12/back-prop/
 https://n-moving.com/2020/05/11/rooted-join-tree-construction/

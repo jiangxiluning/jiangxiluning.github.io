@@ -50,35 +50,6 @@
   </entry>
   
   <entry>
-    <title>Paper Reading -- SCATTER, GTC and GFTE</title>
-    <link href="https://n-moving.com/2020/11/07/paper-reading-scatter-gfte/"/>
-    <id>https://n-moving.com/2020/11/07/paper-reading-scatter-gfte/</id>
-    <published>2020-11-07T15:55:00.000Z</published>
-    <updated>2020-11-07T17:44:19.944Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-	&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/IgomXNvXf3Abh2&quot; style=&quot;width:100%;height:550px&quot; frameborder=&quot;0&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="Paper Reading" scheme="https://n-moving.com/categories/Paper-Reading/"/>
-    
-    
-      <category term="文字识别" scheme="https://n-moving.com/tags/%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB/"/>
-    
-      <category term="表格识别" scheme="https://n-moving.com/tags/%E8%A1%A8%E6%A0%BC%E8%AF%86%E5%88%AB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Paper Reading -- PICK</title>
     <link href="https://n-moving.com/2020/11/07/paper-reading-pick/"/>
     <id>https://n-moving.com/2020/11/07/paper-reading-pick/</id>
@@ -104,6 +75,35 @@
     
     
       <category term="信息抽取" scheme="https://n-moving.com/tags/%E4%BF%A1%E6%81%AF%E6%8A%BD%E5%8F%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Paper Reading -- SCATTER, GTC and GFTE</title>
+    <link href="https://n-moving.com/2020/11/07/paper-reading-scatter-gfte/"/>
+    <id>https://n-moving.com/2020/11/07/paper-reading-scatter-gfte/</id>
+    <published>2020-11-07T15:55:00.000Z</published>
+    <updated>2020-11-07T17:44:19.944Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+	&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/IgomXNvXf3Abh2&quot; style=&quot;width:100%;height:550px&quot; frameborder=&quot;0&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Paper Reading" scheme="https://n-moving.com/categories/Paper-Reading/"/>
+    
+    
+      <category term="文字识别" scheme="https://n-moving.com/tags/%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB/"/>
+    
+      <category term="表格识别" scheme="https://n-moving.com/tags/%E8%A1%A8%E6%A0%BC%E8%AF%86%E5%88%AB/"/>
     
   </entry>
   
@@ -192,7 +192,7 @@
     <link href="https://n-moving.com/2020/02/16/deformable-detr/"/>
     <id>https://n-moving.com/2020/02/16/deformable-detr/</id>
     <published>2020-02-16T07:09:23.000Z</published>
-    <updated>2020-11-16T16:05:39.541Z</updated>
+    <updated>2020-11-16T17:00:59.835Z</updated>
     
     <summary type="html">
     
