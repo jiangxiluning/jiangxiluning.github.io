@@ -29,10 +29,10 @@
       
         
         
-          
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;
 
 	&lt;div class=&quot;row&quot;&gt;
-    &lt;embed src=&quot;main.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot;
+    &lt;embed
         
       
     
@@ -62,10 +62,10 @@
       
         
         
-          
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;
 
 	&lt;div class=&quot;row&quot;&gt;
-    &lt;embed src=&quot;main.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot;
+    &lt;embed
         
       
     
@@ -91,8 +91,8 @@
       
         
         
-          
-	&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/IgomXNvXf3Abh2&quot; style=&quot;width:100%;height:550px&quot; frameborder=&quot;0&quot;
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;
+	&lt;iframe
         
       
     
@@ -120,8 +120,8 @@
       
         
         
-          
-	&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/juY4BY9BLmJaId&quot; style=&quot;width:100%;height:550px&quot; frameborder=&quot;0&quot;
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;
+	&lt;iframe
         
       
     
@@ -147,7 +147,7 @@
       
         
         
-          &lt;p&gt;&lt;em&gt;&lt;strong&gt;本文翻译自：&lt;a href=&quot;http://colah.github.io/posts/2015-08-Backprop/&quot; target=&quot;_blank&quot;
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;本文翻译自：&lt;a
         
       
     
@@ -173,8 +173,7 @@
       
         
         
-          &lt;h1 id=&quot;Bias&quot;&gt;&lt;a href=&quot;#Bias&quot; class=&quot;headerlink&quot; title=&quot;Bias&quot;&gt;&lt;/a&gt;Bias&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;Symptom&lt;br&gt;$ J_{cv}(\theta)  -1 $ and $
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h1 id=&quot;Bias&quot;&gt;&lt;a href=&quot;#Bias&quot;
         
       
     
@@ -192,7 +191,7 @@
     <link href="https://n-moving.com/2020/02/16/deformable-detr/"/>
     <id>https://n-moving.com/2020/02/16/deformable-detr/</id>
     <published>2020-02-16T07:09:23.000Z</published>
-    <updated>2020-11-16T17:00:59.835Z</updated>
+    <updated>2020-11-22T08:39:19.542Z</updated>
     
     <summary type="html">
     
@@ -200,9 +199,7 @@
       
         
         
-          &lt;p&gt;文章地址：&lt;a href=&quot;http://arxiv.org/abs/2010.04159&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://arxiv.org/abs/2010.04159&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;代码地址：无&lt;/p&gt;
-&lt;h2
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;文章地址：&lt;a
         
       
     
@@ -230,7 +227,7 @@
       
         
         
-          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+          &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot;
         
       
     
